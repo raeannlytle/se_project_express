@@ -1,0 +1,15 @@
+{
+  "name": "se_project_express",
+  "version": "1.0.0",
+  "description": "TripleTen Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "se_project_Express"
+  },
+  "author": "Raeann Lytle",
+  "license": "ISC"
+}
